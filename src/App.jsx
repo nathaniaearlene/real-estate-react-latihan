@@ -1,10 +1,10 @@
 import React from 'react'
 import { Routes, Route, NavLink } from 'react-router-dom'
-import Home from './pages/Home/Home'
-import Profile from './pages/Profile/Profile'
-import Login from './pages/Login/Login'
-import Contact from './pages/Contact/Contact'
-import Register from './pages/Register/Register'
+import Home from './assets/pages/Home'
+import Profile from './assets/pages/Profile'
+import Login from './assets/pages/Login'
+import Contact from './assets/pages/Contact'
+import Register from './assets/pages/Register'
 
 function App() {
   return (
